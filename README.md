@@ -5,5 +5,5 @@
 
 # User Manual
 1. Install golang compiler
-2. For inspaction of the created chain : go run main.go print
-3. For adding nwe block to the chain go run main.go add --block [BLOCK_DATA]
+2. For inspaction of the created chain : ```go run main.go print```
+3. For adding nwe block to the chain:  ```go run main.go add --block [BLOCK_DATA]```
