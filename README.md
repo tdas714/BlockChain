@@ -1,1 +1,1 @@
-## Very Simple Blockchain Implementation in Go.
+# Very Simple Blockchain Implementation in Go.
